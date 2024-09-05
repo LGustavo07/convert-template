@@ -32,4 +32,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projeto
 
-Nesse projeto desenvolvemos uma Landing Page de de conversão de moedas completa e responsiva. de um aplicativo chamado Convert.
+Nesse projeto desenvolvemos uma Landing Page de conversão de moedas completa e responsiva. de um aplicativo chamado Convert.
